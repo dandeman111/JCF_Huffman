@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc9949bf-35cb-4d3f-be88-179b0bf53732" name="Default" comment="Heb git niet bijgehouden voel schaamte">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/test/HuffmanTreeTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Huffman/com/company/FileOperations.class" afterPath="$PROJECT_DIR$/out/production/Huffman/com/company/FileOperations.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Huffman/com/company/HuffmanTree$ValueComparator.class" afterPath="$PROJECT_DIR$/out/production/Huffman/com/company/HuffmanTree$ValueComparator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Huffman/com/company/HuffmanTree.class" afterPath="$PROJECT_DIR$/out/production/Huffman/com/company/HuffmanTree.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Huffman/com/company/Main.class" afterPath="$PROJECT_DIR$/out/production/Huffman/com/company/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Huffman/com/company/Node.class" afterPath="$PROJECT_DIR$/out/production/Huffman/com/company/Node.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Huffman.iml" afterPath="$PROJECT_DIR$/Huffman.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/FileOperations.java" afterPath="$PROJECT_DIR$/src/com/company/FileOperations.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/HuffmanTree.java" afterPath="$PROJECT_DIR$/src/com/company/HuffmanTree.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/Main.java" afterPath="$PROJECT_DIR$/src/com/company/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/Node.java" afterPath="$PROJECT_DIR$/src/com/company/Node.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/text.txt" afterPath="$PROJECT_DIR$/text.txt" />
-    </list>
+    <list default="true" id="fc9949bf-35cb-4d3f-be88-179b0bf53732" name="Default" comment="Heb git niet bijgehouden voel schaamte" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -345,7 +330,7 @@
       <workItem from="1508504130619" duration="168000" />
       <workItem from="1508504780925" duration="498000" />
       <workItem from="1508505318574" duration="659000" />
-      <workItem from="1508585823697" duration="3131000" />
+      <workItem from="1508585823697" duration="3306000" />
     </task>
     <servers />
   </component>
@@ -382,7 +367,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52379000" />
+    <option name="totallyTimeSpent" value="52554000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
