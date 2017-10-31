@@ -30,7 +30,6 @@ public class HuffmanTree {
             sortedFrequencyInsert(new Node((entry)));//maakt nieuwe node aan met entry als parameter de functie zet hem op de goede plaats in de lijst
         }
 
-        int maxNodeValue = 0;//#todo kijk naar waar de node count word gezet want er is nog twijfel over hoe
         Node node1;
         Node node2;
         //huffmanLeafNodeList = huffmanNodeList;

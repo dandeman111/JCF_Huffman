@@ -20,16 +20,11 @@ class HuffmanTreeTest {
          hashMap1.put("011",'s');
          hashMap1.put("1",'t');
          hashMap1.put("010",'n');
-
         stringBit = "100011100010";
-
-
-
     }
 
     @org.junit.jupiter.api.Test
     void getHufmancodes() {
-        System.out.println(huffmanTestTree.getHufmancodes().toString());
         assertEquals('e',huffmanTestTree.getHufmancodes().get("00"));
         assertEquals('s',huffmanTestTree.getHufmancodes().get("011"));
         assertEquals('t',huffmanTestTree.getHufmancodes().get("1"));
@@ -38,14 +33,14 @@ class HuffmanTreeTest {
     }
 
     @org.junit.jupiter.api.Test
-    void readByteStringUsingHashmap() {
+    void readByteStringUsingHashmap() { //string met 1en en nullen word omgezet naar leesbare tekst met behulp van hashmap
         String expected = "testen";
         String actual = huffmanTestTree.readByteStringUsingHashmap(stringBit,hashMap1);
         assertEquals(expected,actual);
     }
 
     @org.junit.jupiter.api.Test
-    void readByteStringUsingTree() {
+    void readByteStringUsingTree() {//string met 1en en nullen word omgezet naar leesbare tekst met behulp van tree
         String expected = "testen";
         String actual = huffmanTestTree.readByteStringUsingTree(stringBit);
         assertEquals(expected,actual);

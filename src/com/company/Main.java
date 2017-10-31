@@ -35,7 +35,7 @@ public class Main {
         System.out.println(huffmanTree.readByteStringUsingHashmap(bits,hashMapCodes));//Deze methode leest de codes dmv de hashmap die ik net heb opgehaald
 
 
-        //Om te laten zien dat ik kan lezen meot ik in de huffmantree klasse de build tree methode commente zodat de boom niet gebouwd word
+        //Om te laten zien dat ik kan lezen moet ik in de huffmantree klasse de build tree methode commenten zodat de boom niet gebouwd word en comment de code om de boom weg te schrijven weg
     }
 
 }
